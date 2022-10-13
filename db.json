@@ -1,3 +1,4 @@
+{
 
 {
   "posts": [
@@ -6,16 +7,16 @@
 	"opis":"batonik",
 	"kategoria":"slodycz",
 	"ilosc":"30",
-	"cena":"2" },
-	      {
-	"nazwa":"cymes",
-	"opis":"sok",
-	"kategoria":"napoj",
-	"ilosc":"35",
-	"cena":"1" }
-  ]
-
+	"cena":"2"
+	"cena":"2" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "profile": {
     "name": "juleryk"
   }
+]
+
 }
