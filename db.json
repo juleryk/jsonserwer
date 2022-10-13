@@ -11,11 +11,11 @@
 	"kategoria":"napoj",
 	"ilosc":"20",
 	"cena":"1" },
-    {"nazwa":"papita",
-	"opis":"batonik",
-	"kategoria":"slodycz",
-	"ilosc":"20",
-	"cena":"1" }
+    {"nazwa":"olowek",
+	"opis":"przedmiot szkolny",
+	"kategoria":"przedmiot",
+	"ilosc":"40",
+	"cena":"0.5" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
