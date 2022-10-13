@@ -1,21 +1,27 @@
 
 {
   "posts": [
-    {
-	"nazwa":"papita",
+    {"nazwa":"papita",
 	"opis":"batonik",
 	"kategoria":"slodycz",
-	"ilosc":"30",
-	"cena":"2"
-	"cena":"2" }
+	"ilosc":"20",
+	"cena":"1" },
+    {"nazwa":"cymes",
+	"opis":"soczek",
+	"kategoria":"napoj",
+	"ilosc":"20",
+	"cena":"1" },
+    {"nazwa":"papita",
+	"opis":"batonik",
+	"kategoria":"slodycz",
+	"ilosc":"20",
+	"cena":"1" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ]
+  ],
   "profile": {
     "name": "juleryk"
   }
-
-
 }
