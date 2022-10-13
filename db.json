@@ -12,7 +12,7 @@
 	"opis":"sok",
 	"kategoria":"napoj",
 	"ilosc":"35",
-	"cena":"1" },
+	"cena":"1" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
