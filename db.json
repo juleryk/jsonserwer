@@ -1,21 +1,24 @@
 
 {
   "posts": [
-    {"nazwa":"papita",
+    {"id":"1",
+	"nazwa":"papita",
 	"opis":"batonik",
 	"kategoria":"slodycz",
 	"ilosc":"20",
 	"cena":"1" },
-    {"nazwa":"cymes",
+    {"id":"2",
+	"nazwa":"cymes",
 	"opis":"soczek",
 	"kategoria":"napoj",
 	"ilosc":"20",
 	"cena":"1" },
-    {"nazwa":"olowek",
+    {"id":"3",
+	"nazwa":"olowek",
 	"opis":"przedmiot szkolny",
 	"kategoria":"przedmiot",
 	"ilosc":"40",
-	"cena":"0.5" }
+	"cena":"4" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
